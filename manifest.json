@@ -1,6 +1,6 @@
 {
-  "name": "Räknare",
-  "short_name": "Räknare",
+  "name": "Counter",
+  "short_name": "Counter",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
